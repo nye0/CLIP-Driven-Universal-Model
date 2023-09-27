@@ -8,14 +8,15 @@ Curated list of awesome medical universal models (UMs), or medical foundation mo
 
 Some segmentation datasets and models designed for a large number of structures can also be considered as foundation models. For example, totaSegmentator [[7](https://arxiv.org/abs/2208.05868)] dataset defines 104 whole-body structures for CT segmentation, UNEST [[8](https://arxiv.org/abs/2209.14378)] covers 133 brain tissues for MRI whole-brain segmentation. 
 
-[1] Moor, Michael, et al. "Foundation models for generalist medical artificial intelligence." Nature 616.7956 (2023): 259-265. \
-[2] Liu, Jie, et al. "CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection." arXiv preprint arXiv:2301.00785 (2023). \
-[3] Liu, Pengbo, et al. "Universal segmentation of 33 anatomies." arXiv preprint arXiv:2203.02098 (2022). \
-[4] Ulrich, Constantin, et al. "MultiTalent: A Multi-Dataset Approach to Medical Image Segmentation." arXiv preprint arXiv:2303.14444 (2023). \
-[5] Huang, Ziyan, et al. "STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training." arXiv preprint arXiv:2304.06716 (2023). \
-[6] Ye, Yiwen, et al. "UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner." arXiv preprint arXiv:2304.03493 (2023). \
-[7] Wasserthal, et al. "TotalSegmentator: robust segmentation of 104 anatomical structures in CT images." arXiv preprint arXiv:2208.05868. (2023). \
+[1] Moor, Michael, et al. "Foundation models for generalist medical artificial intelligence." Nature 616.7956 (2023): 259-265.  
+[2] Liu, Jie, et al. "CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection." arXiv preprint arXiv:2301.00785 (2023).  
+[3] Liu, Pengbo, et al. "Universal segmentation of 33 anatomies." arXiv preprint arXiv:2203.02098 (2022).  
+[4] Ulrich, Constantin, et al. "MultiTalent: A Multi-Dataset Approach to Medical Image Segmentation." arXiv preprint arXiv:2303.14444 (2023).  
+[5] Huang, Ziyan, et al. "STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training." arXiv preprint arXiv:2304.06716 (2023).  
+[6] Ye, Yiwen, et al. "UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner." arXiv preprint arXiv:2304.03493 (2023).  
+[7] Wasserthal, et al. "TotalSegmentator: robust segmentation of 104 anatomical structures in CT images." arXiv preprint arXiv:2208.05868. (2023).  
 [8] Yu, X. et al. "UNesT: Local Spatial Representation Learning with Hierarchical Transformer for Efficient Medical Segmentation." arXiv preprint arXiv:2209.14378.(2023).
+
 
 😎 This is an active repository and your contributions are always welcome! **Feel free **to submit **[issues](https://github.com/ljwztc/CLIP-Driven-Universal-Model/issues/10)** for related**work and dataset!** Don't forget to star and fork!
 
